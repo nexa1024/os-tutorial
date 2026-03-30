@@ -28,8 +28,8 @@
 
 | 文档 | 内容 |
 |------|------|
-| [中断机制详解 →](./interrupt-theory.md) | 什么是中断、硬件/软件中断、ISR、IVT |
-| [CPU 寄存器指南 →](./cpu-registers.md) | 用大白话讲解寄存器（AX、BX、CX、DX、SI、DI...）|
+| [中断机制详解 →](https://github.com/nexa1024/os-tutorial/blob/main/02-引导打印/interrupt-theory.md) | 什么是中断、硬件/软件中断、ISR、IVT |
+| [CPU 寄存器指南 →](https://github.com/nexa1024/os-tutorial/blob/main/02-引导打印/cpu-registers.md) | 用大白话讲解寄存器（AX、BX、CX、DX、SI、DI...）|
 
 ---
 
