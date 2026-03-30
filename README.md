@@ -4,7 +4,16 @@
 
 ## 简介
 
-本教程基于 [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) 和 [ruiers/os-tutorial-cn](https://github.com/ruiers/os-tutorial-cn)，是一个手把手教你从零开始编写 x86 操作系统的学习项目。
+本教程基于 [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) 和 [ruiers/os-tutorial-cn](https://github.com/ruiers/os-tutorial-cn)。
+
+### 项目背景
+
+原教程是基于 **macOS** 系统开发的操作系统编写教程，而本项目是我在 **Windows 11** 系统上学习和实践过程中的笔记与总结。
+
+除了对原教程进行翻译和实现外，我还补充了：
+- 📝 **概念总结文档** - 用大白话解释 CPU 寄存器、中断机制等概念
+- 💡 **额外代码示例** - 更多实用的汇编代码示例和注释
+- 🛠️ **Windows 环境指南** - 针对 Windows 用户的详细环境搭建说明
 
 ### 这个项目是做什么的
 
@@ -23,6 +32,7 @@
 - 对计算机底层好奇的同学
 - 想了解操作系统原理的朋友
 - 有一定编程基础，但没写过 OS 的开发者
+- **Windows 用户**（原教程主要针对 macOS/Linux）
 - 单纯想玩一玩汇编的爱好者
 
 ### 特点
@@ -30,7 +40,9 @@
 - 📚 **循序渐进** - 每章 5-15 分钟即可完成
 - 💻 **代码驱动** - 边学边写，理论结合实践
 - 🌏 **中文文档** - 详细的中文注释和说明
-- 🔧 **无需 GRUB** - 从零编写自己的引导程序
+- 🪟 **Windows 友好** - 基于 Windows 11 实践，包含 Windows 环境搭建
+- 📖 **概念补充** - 用大白话讲解技术概念（寄存器、中断等）
+- 🔧 **无需 GRUB** - 从零编写自己的引导程序，真正理解启动原理
 
 ### 前置要求
 

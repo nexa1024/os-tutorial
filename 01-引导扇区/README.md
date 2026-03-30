@@ -12,6 +12,16 @@
 
 ---
 
+## 🌟 支持一下
+
+如果这个教程对你有帮助，欢迎到 GitHub 项目点个 star 支持：
+
+⭐ [github.com/nexa1024/os-tutorial](https://github.com/nexa1024/os-tutorial)
+
+你的 star 是我继续更新的动力！谢谢 🙏
+
+---
+
 ## 理论基础
 
 ### 启动流程
@@ -232,16 +242,6 @@ Format-Hex boot_sect_simple.bin
 ## 下一章
 
 在下一章中，我们将学习如何在屏幕上打印字符！
-
----
-
-## 🌟 支持一下
-
-如果这个教程对你有帮助，欢迎到 GitHub 项目点个 star 支持：
-
-⭐ [github.com/nexa1024/os-tutorial](https://github.com/nexa1024/os-tutorial)
-
-你的 star 是我继续更新的动力！谢谢 🙏
 
 ---
 

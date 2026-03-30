@@ -12,6 +12,16 @@
 
 ---
 
+## 🌟 支持一下
+
+如果这个教程对你有帮助，欢迎到 GitHub 项目点个 star 支持：
+
+⭐ [github.com/nexa1024/os-tutorial](https://github.com/nexa1024/os-tutorial)
+
+你的 star 是我继续更新的动力！谢谢 🙏
+
+---
+
 ## 📚 理论知识
 
 在学习本章代码之前，建议先阅读以下理论知识：
@@ -347,16 +357,6 @@ Hello OS!
 ## 下一章
 
 在下一章中，我们将学习如何读取 BIOS 内存信息！
-
----
-
-## 🌟 支持一下
-
-如果这个教程对你有帮助，欢迎到 GitHub 项目点个 star 支持：
-
-⭐ [github.com/nexa1024/os-tutorial](https://github.com/nexa1024/os-tutorial)
-
-你的 star 是我继续更新的动力！谢谢 🙏
 
 ---
 
