@@ -177,6 +177,16 @@ Hello OS!
 
 ---
 
+## 🌟 支持一下
+
+如果这个教程对你有帮助，欢迎到 GitHub 项目点个 star 支持：
+
+⭐ [github.com/nexa1024/os-tutorial](https://github.com/nexa1024/os-tutorial)
+
+你的 star 是我继续更新的动力！谢谢 🙏
+
+---
+
 ## 参考资源
 
 - [QEMU 官方下载页](https://www.qemu.org/download/)
