@@ -362,7 +362,7 @@ Hello OS!
 
 ## 参考资源
 
-- [中断机制详解](./interrupt-theory.md)
+- [中断机制详解](https://github.com/nexa1024/os-tutorial/blob/main/02-引导打印/interrupt-theory.md)
 - [os-tutorial 原仓库](https://github.com/cfenollosa/os-tutorial)
 - [os-tutorial 中文版](https://github.com/ruiers/os-tutorial-cn)
 - [INT 10h - Wikipedia](https://en.wikipedia.org/wiki/INT_10H)

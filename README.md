@@ -71,7 +71,7 @@
 | QEMU | 任意版本 | x86 系统模拟器 |
 | Git | 可选 | 版本控制 |
 
-**Windows 用户**请参阅 [`00-环境准备/README.md`](00-环境准备/README.md)
+**Windows 用户**请参阅 [`00-环境准备/README.md`](https://github.com/nexa1024/os-tutorial/blob/main/00-环境准备/README.md)
 
 ---
 
